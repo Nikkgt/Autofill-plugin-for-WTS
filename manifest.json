@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "WTS Autofill",
+    "version": "1.0",
+    "description": "Autofill plugin for Welcome to Serbia",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "pencil.png"
+    },
+    "icons":{
+      "225": "pencil.png"
+    }
+  }
+  
+  
